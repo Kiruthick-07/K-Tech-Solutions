@@ -30,13 +30,55 @@ body{
 .lione{
     display: inline;
     margin-left: 20px;
-    border-style: solid;
-    border-radius: 20px;
-    padding: 4px;
-    border-color: yellow;
-    transition: 1s;
+    padding: 10px;
+    transition: 0.5s;
+    
 }
-.lione:hover{
-    background-color: yellow;
+.but1:hover{
+    padding: 6px;
+    transition: 0.5s;
+    
+}
+.but1{
+    border-radius: 20px;
+    border-color: yellow;
+    padding: 3px;
+    transition: 0.5s;
+}
+
+.hdtxt{
+    position: absolute;
+    top: 150px;
+    left: 280px;
+    font-size: 55px;
+    font-style: italic;
+    font-family: monospace;
+}
+.tagline{
+    position: absolute;
+    top: 220px;
+    left: 310px;
+}
+.mainbutton{
+    position: absolute;
+    border-radius: 10px;
     border-color: black;
+    top: 280px;
+    left: 455px;
+    padding: 10px;
+    font-weight: 800;
+    font-size: 15px;
+    background-color: yellow;
+    border-width: 4px;
+    transition: 0.5s;
+}
+.mainbutton:hover{
+    background-color: whitesmoke;
+    transition: 0.5s;
+    padding: 15px;
+}
+.do{
+    position: absolute;
+    top: 370px;
+    left: 110px;
 }
