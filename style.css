@@ -2,14 +2,41 @@
     margin: 0px;
     padding: 0px;
 }
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap'); 
 body{
-    { font-family: 'Poppins', sans-serif; }
+     font-family: 'Lato', sans-serif; 
 }
 .img1{
     opacity: 25%;
     display: inline;
 }
 .container{
+    position: relative;
+    
+}
+.headtxt{
     position: absolute;
+    top: 20px;
+    left: 16px;
+}
+#li1 {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    font-family: sans-serif;
+    font-weight: 600;
+    list-style: none;
+}
+.lione{
+    display: inline;
+    margin-left: 20px;
+    border-style: solid;
+    border-radius: 20px;
+    padding: 4px;
+    border-color: yellow;
+    transition: 1s;
+}
+.lione:hover{
+    background-color: yellow;
+    border-color: black;
 }
