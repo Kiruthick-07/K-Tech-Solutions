@@ -82,3 +82,102 @@ body{
     top: 370px;
     left: 110px;
 }
+/*.webul{
+    color: yellow;
+}*/
+.webimg{
+    border-radius: 20px;
+    margin-left: 40px;
+    margin-top: 10px;
+    float: left;
+    margin-right: 20px;
+    
+}
+.webinfo{
+    margin-top: 30px;
+    margin-right: 20px;
+    font-size: 20px;
+}
+.but2{
+    padding: 10px;
+    border-radius: 10px;
+    color: black;
+    background-color: whitesmoke;
+    border-width: 4px;
+    margin-top: 20px;
+    margin-left: 250px;
+    font-weight: 900;
+    transition: 0.5s;
+}
+.appimg{
+    border-radius: 20px;
+    margin-left: 40px;
+    margin-top: 10px;
+    float: right;
+    margin-right: 20px;
+}
+.appinfo{
+    margin-top: 30px;
+    margin-right: 20px;
+    margin-left: 40px;
+    font-size: 20px;
+}
+.but3{
+    padding: 10px;
+    border-radius: 10px;
+    color: black;
+    background-color: whitesmoke;
+    border-width: 4px;
+    margin-top: 25px;
+    margin-left: 250px;
+    font-weight: 900;
+    transition: 0.5s;
+}
+.markimg{
+    border-radius: 20px;
+    margin-left: 40px;
+    margin-top: 10px;
+    float: left;
+    margin-right: 20px;
+}
+.markinfo{
+    margin-top: 30px;
+    margin-right: 20px;
+    font-size: 20px;
+}
+.graimg{
+    border-radius: 20px;
+    margin-left: 40px;
+    margin-top: 10px;
+    float: right;
+    margin-right: 20px;
+}
+.grainfo{
+    margin-top: 30px;
+    margin-right: 20px;
+    margin-left: 40px;
+    font-size: 20px;
+}
+.but3:hover{
+    background-color: yellow;
+    transition: 0.5s;
+    padding: 15px;
+}
+.but2:hover{
+    background-color: yellow;
+    transition: 0.5s;
+    padding: 15px;
+}
+.linkedin{
+    margin-left: 250px;
+    margin-top: 50px;
+    float: left;
+}
+.link1{
+    
+    margin-left: 250px;
+}
+.insta{
+    margin-left: 300px;
+    margin-top: 50px;
+}
